@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ngwaru
 - 👀 I’m interested in AI in Medicine. I love developing computer vision apps for application in medicine
 - 🌱 I’m currently learning PyTorch and Swedish
-- 💞️ I’m looking to collaborate on in computer vision
+- 💞️ I’m looking to collaborate on vision transformers in medical computer vision (Laparoscopy, Radiology, Histology and Dermatology) is it better to combine transformers with CNNs 
 - 📫 How to reach me on https://www.linkedin.com/in/ngwaru-munodawafa-b1a71026/
 
 
