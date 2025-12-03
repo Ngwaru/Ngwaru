@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on <a href="https://github.com/Ngwaru/histology_vision_transformer"> Vision Transformers in histopathology.</a> 
 - 💞️ I’m looking to collaborate on vision transformers in medical computer vision (Laparoscopy, Radiology, Histology and Dermatology) is it better to combine transformers with CNNs
 - I have worked on using Large language Models for differential diagnostic support. Though LLM give good differential diagnostic list they have are prone to hallucinations. 
-- 📫 How to reach me on https://www.linkedin.com/in/ngwaru-munodawafa-b1a71026/
+- 📫 How to reach me https://www.linkedin.com/in/ngwaru-munodawafa-b1a71026/
 
 
 <!---
