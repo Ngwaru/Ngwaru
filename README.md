@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Tools</h3>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
-<a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/mlflow/mlflow/refs/heads/master/assets/logo.svg" alt="mlflow" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
+<a href="https://mlflow.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/mlflow/mlflow/refs/heads/master/assets/logo.svg" alt="mlflow" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
