@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Databases:</h3>
 <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
-<a href="https://www.trychroma.com/" rel="nofollow"> <img src="https://www.trychroma.com/_next/image?url=%2F_next…&w=1920&q=75&dpl=dpl_9CQpx9DnyMJ5vjjsTscRMt6K2RuE" alt="mysql" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
+<img alt="Chroma Logo" loading="lazy" width="793" height="512" decoding="async" data-nimg="1" class="w-8" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.2d296158.png&amp;w=828&amp;q=75&amp;dpl=dpl_9CQpx9DnyMJ5vjjsTscRMt6K2RuE 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.2d296158.png&amp;w=1920&amp;q=75&amp;dpl=dpl_9CQpx9DnyMJ5vjjsTscRMt6K2RuE 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.2d296158.png&amp;w=1920&amp;q=75&amp;dpl=dpl_9CQpx9DnyMJ5vjjsTscRMt6K2RuE" style="color: transparent;">
 <h3>Tools</h3>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
 <a href="https://mlflow.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/mlflow/mlflow/refs/heads/master/assets/logo.svg" alt="mlflow" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
