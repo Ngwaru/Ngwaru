@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Databases:</h3>
 <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
-
+<a href="https://www.trychroma.com/" rel="nofollow"> <img src="https://www.trychroma.com/_next/image?url=%2F_next…&w=1920&q=75&dpl=dpl_9CQpx9DnyMJ5vjjsTscRMt6K2RuE" alt="mysql" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
 <h3>Tools</h3>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
 <a href="https://mlflow.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/mlflow/mlflow/refs/heads/master/assets/logo.svg" alt="mlflow" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
