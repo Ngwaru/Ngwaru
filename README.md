@@ -1,9 +1,3 @@
-<img width="815" height="318" alt="image" src="https://github.com/user-attachments/assets/97394dae-7f7a-4308-8d16-2141e979e677" />
-
-
-
-
-
 - 👋 Hi, I’m @Ngwaru
 - 👀 I’m interested in <a href="https://github.com/Ngwaru/CXR">AI in Medicine</a>. I love developing computer vision apps for application in medicine
 - 🌱 I’m currently working on <a href="https://github.com/Ngwaru/auto_surgical_report"> Automated surgical report generation.</a>.
